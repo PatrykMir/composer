@@ -1,0 +1,9 @@
+{
+    "name": "2450149/login-form-main",
+    "autoload": {
+        "psr-4": {
+            "2450149\\LoginFormMain\\": "src/"
+        }
+    },
+    "require": {}
+}
